@@ -17,7 +17,6 @@
 <br>
 <br>
 
-![github graph](https://activity-graph.herokuapp.com/graph?username=prajjwalpathak&theme=react-dark)
 <img src = "https://github-readme-streak-stats.herokuapp.com?user=prajjwalpathak&theme=tokyonight_duo&hide_border=false" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api?username=prajjwalpathak&show_icons=true&theme=github_dark" width = 500>
 
