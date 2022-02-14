@@ -20,7 +20,6 @@
 <br>
 <br>
 
-<img src = "https://github-readme-streak-stats.herokuapp.com?user=prajjwalpathak&theme=tokyonight_duo&hide_border=false" width = 500>
 <img src = "https://github-readme-stats.vercel.app/api?username=prajjwalpathak&show_icons=true&theme=github_dark" width = 500>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajjwalpathak&langs_count=10&theme=github_dark)](https://github.com/prajjwalpathak/github-readme-stats)
