@@ -7,7 +7,7 @@ Web Developer
 I have experience in Web Development, Data Science and Machine Learning.
 
 * 🌍  I'm based in Gurgaon, India
-* You can contact me at [prajjwalpathak.asm@gmail.com](mailto:prajjwalpathak.asm@gmail.com)
+* You can contact me at [prajjwalpathak1105@gmail.com](mailto:prajjwalpathak1105@gmail.com)
 
 ### Skills
 
