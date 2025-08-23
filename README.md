@@ -6,7 +6,7 @@
 
 I have experience in Backend Development - Node.js.
 
-* Gurugram, India 🌍
+* Gurgaon, India 🌍
 * Contact: [prajjwalpathak1105@gmail.com](mailto:prajjwalpathak1105@gmail.com)
 
 <br>
